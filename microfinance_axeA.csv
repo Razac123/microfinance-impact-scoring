@@ -1,0 +1,401 @@
+id_beneficiaire,region,zone,genre,age,statut_matrimonial,niveau_education,activite_principale,type_pret,groupe_solidarite,nb_cycles_anterieurs,nb_membres_menage,tontine_avant,mobile_money,montant_pret_fcfa,duree_pret_mois,distance_service_km,revenu_avant_fcfa,revenu_apres_fcfa,variation_revenu_pct,epargne_fcfa,emplois_crees,taux_remboursement_pct,score_satisfaction,defaut_flag
+BEN-0001,Vallee du Bandama,Semi-urbain,Femme,42,Marie(e),Primaire,Commerce,Solidaire,Groupe C,1,8,Non,Oui,296000,18,13.1,,125400,6.9,10600,2,75.2,4.7,0
+BEN-0002,Cavally,Semi-urbain,Femme,30,Marie(e),Primaire,Artisanat,Individuel,Groupe B,2,3,Oui,Non,244000,24,0.5,87300,80300,-8.0,9300,1,65.7,2.6,1
+BEN-0003,Cavally,Urbain,Homme,34,Celibataire,Secondaire,Artisanat,Individuel,Groupe A,1,3,Oui,Oui,353000,12,2.3,124400,194700,56.5,6100,2,64.4,3.3,0
+BEN-0004,Zanzan,Rural,Homme,35,Marie(e),Aucun,Transformation,Individuel,Groupe C,3,5,Oui,Non,489000,12,38.5,125100,151400,21.0,4400,1,49.6,2.6,1
+BEN-0005,Zanzan,Urbain,Femme,31,Marie(e),Superieur,Artisanat,Individuel,Groupe B,2,4,Oui,Oui,586000,6,0.5,269600,363000,34.6,13400,0,100.0,,0
+BEN-0006,Vallee du Bandama,Semi-urbain,Femme,43,Marie(e),Secondaire,Agriculture,Individuel,Groupe C,2,7,Non,Oui,277000,6,42.5,78700,104000,32.1,3700,1,94.1,4.5,0
+BEN-0007,Belier,Urbain,Femme,18,Marie(e),Primaire,Agriculture,Solidaire,Groupe B,2,6,Oui,Non,244000,18,39.6,228600,354000,54.9,10300,4,100.0,3.0,1
+BEN-0008,Zanzan,Semi-urbain,Femme,33,Veuf/Veuve,Superieur,Elevage,Solidaire,Groupe C,1,2,Non,Oui,441000,36,5.2,,301400,46.4,7600,0,75.6,3.2,0
+BEN-0009,Cavally,Urbain,Femme,32,Veuf/Veuve,Primaire,Commerce,Solidaire,Groupe C,2,3,Non,Oui,585000,12,0.5,386700,468400,21.1,11500,4,86.3,3.2,1
+BEN-0010,Marahoue,Semi-urbain,Femme,40,Divorce(e),Secondaire,Agriculture,Individuel,Groupe B,1,5,Non,Oui,355000,12,13.6,139300,180100,29.3,8300,3,76.4,3.6,0
+BEN-0011,Zanzan,Rural,Femme,44,Celibataire,Secondaire,Agriculture,Solidaire,Groupe A,0,3,Oui,Oui,723000,18,21.4,190500,191800,0.7,,2,100.0,1.8,1
+BEN-0012,Marahoue,Rural,Homme,25,Marie(e),Primaire,Commerce,Individuel,Groupe B,2,5,Oui,Oui,240000,12,27.0,79500,80900,1.8,3700,2,61.2,4.1,0
+BEN-0013,Vallee du Bandama,Semi-urbain,Femme,53,Veuf/Veuve,Secondaire,Artisanat,Solidaire,Groupe B,2,3,Non,Oui,435000,12,1.5,206000,251500,22.1,4200,1,100.0,5.0,0
+BEN-0014,Marahoue,Urbain,Homme,32,Marie(e),Aucun,Artisanat,Solidaire,Groupe C,3,7,Oui,Oui,313000,6,5.5,229100,364800,59.2,52500,1,89.3,3.2,0
+BEN-0015,Vallee du Bandama,Rural,Homme,35,Celibataire,Secondaire,Agriculture,Solidaire,Groupe B,1,7,Oui,Non,938000,12,26.6,498700,598000,19.9,23900,1,95.1,5.0,0
+BEN-0016,Zanzan,Rural,Femme,37,Celibataire,Primaire,Elevage,Solidaire,Groupe C,2,9,Oui,Non,192000,12,15.9,122800,158700,29.2,7600,0,95.7,2.9,1
+BEN-0017,Belier,Rural,Femme,39,Celibataire,Primaire,Services,Solidaire,Groupe A,1,4,Oui,Non,72000,18,16.0,88200,94800,7.5,3600,2,,2.6,1
+BEN-0018,Cavally,Rural,Femme,54,Marie(e),Secondaire,Artisanat,Solidaire,Groupe C,4,6,Non,Oui,290000,18,16.7,156600,168800,7.8,7900,1,100.0,4.8,0
+BEN-0019,Zanzan,Rural,Femme,46,Marie(e),Primaire,Services,Individuel,Groupe A,1,4,Oui,Oui,253000,36,22.7,126500,157300,24.3,,2,59.3,3.4,1
+BEN-0020,Vallee du Bandama,Rural,Femme,25,Marie(e),Aucun,Agriculture,Solidaire,Groupe A,3,8,Non,Oui,356000,12,19.1,122100,130400,6.8,4600,1,95.5,5.0,0
+BEN-0021,Belier,Semi-urbain,Femme,32,Marie(e),Superieur,Commerce,Solidaire,Groupe A,2,3,Oui,Non,200000,18,37.3,134500,178800,32.9,19300,1,100.0,3.6,0
+BEN-0022,Cavally,Rural,Homme,24,Celibataire,Primaire,Services,Individuel,Groupe A,2,5,Oui,Non,302000,24,36.2,122700,157100,28.0,5600,0,,2.9,1
+BEN-0023,Zanzan,Rural,Femme,45,Celibataire,Superieur,Artisanat,Solidaire,Groupe A,2,7,Non,Non,327000,12,19.9,265700,368000,38.5,18100,3,96.1,3.8,0
+BEN-0024,Vallee du Bandama,Urbain,Femme,41,Marie(e),Secondaire,Agriculture,Individuel,Groupe A,1,3,Non,Non,437000,12,12.0,147800,205100,38.8,14100,1,100.0,2.2,1
+BEN-0025,Cavally,Semi-urbain,Homme,48,Marie(e),Secondaire,Elevage,Individuel,Groupe B,0,4,Oui,Non,506000,18,4.6,166100,220500,32.8,18800,0,82.2,3.2,0
+BEN-0026,Cavally,Rural,Homme,48,Marie(e),Primaire,Elevage,Individuel,Groupe B,3,7,Non,Non,279000,18,22.9,214100,267300,24.8,9400,3,84.3,5.0,0
+BEN-0027,Vallee du Bandama,Semi-urbain,Femme,42,Marie(e),Aucun,Elevage,Individuel,Groupe B,3,8,Non,Non,278000,24,1.0,121800,160500,31.8,5500,1,100.0,5.0,0
+BEN-0028,Belier,Rural,Homme,49,Marie(e),Secondaire,Agriculture,Individuel,Groupe B,2,5,Oui,Non,276000,24,21.1,89400,104700,17.1,8300,1,97.0,2.8,1
+BEN-0029,Vallee du Bandama,Rural,Femme,29,Marie(e),Aucun,Elevage,Solidaire,Groupe C,2,6,Non,Oui,320000,24,32.8,287100,233600,-18.6,12900,1,100.0,5.0,0
+BEN-0030,Vallee du Bandama,Rural,Homme,51,Celibataire,Secondaire,Agriculture,Solidaire,Groupe A,1,8,Non,Non,307000,12,21.9,94000,96400,2.6,10100,2,90.7,3.8,0
+BEN-0031,Zanzan,Urbain,Femme,39,Marie(e),Primaire,Commerce,Solidaire,Groupe A,0,2,Oui,Oui,151000,36,,99200,114600,15.5,7100,1,79.2,3.6,0
+BEN-0032,Cavally,Semi-urbain,Femme,50,Celibataire,Superieur,Commerce,Solidaire,Groupe C,4,6,Non,Non,304000,18,7.2,,241200,11.2,10300,0,100.0,4.8,1
+BEN-0033,Belier,Rural,Homme,25,Marie(e),Aucun,Services,Individuel,Groupe A,3,6,Oui,Non,493000,12,38.2,87300,89300,2.3,7600,1,93.6,3.0,0
+BEN-0034,Marahoue,Semi-urbain,Femme,29,Celibataire,Primaire,Artisanat,Individuel,Groupe C,2,9,Oui,Oui,250000,18,1.0,69000,91700,32.9,10900,1,74.3,1.3,1
+BEN-0035,Vallee du Bandama,Semi-urbain,Femme,18,Marie(e),Secondaire,Agriculture,Solidaire,Groupe B,3,6,Oui,Oui,103000,12,75.1,101800,145600,43.0,10700,0,100.0,4.1,0
+BEN-0036,Zanzan,Urbain,Homme,50,Marie(e),Secondaire,Services,Solidaire,Groupe B,4,5,Oui,Oui,288000,24,12.3,228000,331000,45.2,36400,1,82.9,2.7,0
+BEN-0037,Zanzan,Semi-urbain,Femme,45,Marie(e),Primaire,Artisanat,Solidaire,Groupe A,1,5,Oui,Oui,124000,6,7.5,138000,149100,8.0,4800,0,100.0,5.0,0
+BEN-0038,Marahoue,Urbain,Femme,37,Veuf/Veuve,Primaire,Services,Individuel,Groupe C,2,9,Non,Oui,342000,36,3.4,129800,160600,23.7,2500,2,78.3,4.7,0
+BEN-0039,Cavally,Semi-urbain,Homme,40,Celibataire,Aucun,Services,Solidaire,Groupe A,2,8,Non,Oui,196000,12,9.4,437400,469400,7.3,15000,0,67.0,2.1,1
+BEN-0040,Zanzan,Semi-urbain,Homme,38,Marie(e),Primaire,Transformation,Solidaire,Groupe A,2,4,Non,Non,52000,12,11.0,202800,298900,47.4,8100,0,100.0,4.7,1
+BEN-0041,Cavally,Rural,Femme,32,Veuf/Veuve,Superieur,Agriculture,Individuel,Groupe C,1,4,Oui,Oui,464000,6,15.4,,196200,26.6,11700,0,76.4,2.1,1
+BEN-0042,Zanzan,Urbain,Femme,52,Marie(e),Secondaire,Artisanat,Solidaire,Groupe A,1,4,Non,Oui,411000,18,0.5,118700,129200,8.8,4900,1,68.2,2.7,0
+BEN-0043,Marahoue,Rural,Femme,19,Marie(e),Primaire,Services,Individuel,Groupe C,3,3,Non,Non,181000,12,19.5,138700,146600,5.7,13000,0,80.2,2.8,1
+BEN-0044,Cavally,Urbain,Homme,19,Veuf/Veuve,Aucun,Agriculture,Individuel,Groupe A,2,1,Oui,Non,202000,24,14.8,,288100,37.9,3100,2,68.4,4.9,0
+BEN-0045,Zanzan,Rural,Femme,60,Marie(e),Aucun,Agriculture,Individuel,Groupe C,3,4,Oui,Non,238000,12,24.2,47500,56300,18.5,,4,100.0,4.2,0
+BEN-0046,Marahoue,Semi-urbain,Femme,38,Marie(e),Aucun,Commerce,Solidaire,Groupe A,2,2,Non,Non,119000,12,4.1,250100,305300,22.1,7300,0,100.0,3.4,1
+BEN-0047,Vallee du Bandama,Urbain,Femme,36,Veuf/Veuve,Primaire,Artisanat,Individuel,Groupe C,4,6,Oui,Oui,227000,24,9.0,164800,238800,44.9,6100,3,81.2,3.7,1
+BEN-0048,Zanzan,Urbain,Femme,50,Marie(e),Aucun,Commerce,Individuel,Groupe C,1,6,Oui,Oui,272000,12,0.5,169200,236400,39.7,14700,1,47.2,2.9,1
+BEN-0049,Vallee du Bandama,Rural,Femme,36,Marie(e),Secondaire,Commerce,Solidaire,Groupe B,4,3,Non,Oui,444000,24,23.3,209500,287700,37.3,12200,0,100.0,2.1,1
+BEN-0050,Belier,Urbain,Homme,41,Celibataire,Primaire,Commerce,Solidaire,Groupe C,0,5,Non,Oui,233000,6,0.5,171900,204100,18.7,1600,4,84.2,4.9,0
+BEN-0051,Belier,Urbain,Femme,40,Celibataire,Primaire,Artisanat,Solidaire,Groupe B,0,6,Oui,Non,102000,12,0.5,89700,108400,20.8,5000,0,99.7,3.0,0
+BEN-0052,Cavally,Semi-urbain,Femme,25,Celibataire,Primaire,Artisanat,Solidaire,Groupe B,0,4,Oui,Oui,249000,6,1.5,255900,286700,12.0,13500,4,62.7,3.7,1
+BEN-0053,Vallee du Bandama,Rural,Homme,32,Marie(e),Secondaire,Services,Solidaire,Groupe C,0,3,Oui,Oui,298000,24,17.2,288500,350400,21.5,45600,0,96.6,3.0,0
+BEN-0054,Zanzan,Urbain,Homme,51,Veuf/Veuve,Primaire,Services,Individuel,Groupe A,3,7,Non,Oui,292000,6,0.5,123800,181000,46.2,,1,83.0,,1
+BEN-0055,Vallee du Bandama,Semi-urbain,Femme,45,Marie(e),Primaire,Transformation,Individuel,Groupe B,3,8,Oui,Oui,341000,12,11.2,126200,171800,36.1,29400,0,82.1,1.8,1
+BEN-0056,Cavally,Urbain,Homme,41,Celibataire,Aucun,Commerce,Individuel,Groupe B,1,7,Oui,Oui,295000,12,12.7,100000,91300,-8.7,5100,0,92.1,4.8,0
+BEN-0057,Cavally,Semi-urbain,Femme,45,Veuf/Veuve,Primaire,Transformation,Solidaire,Groupe A,3,6,Non,Oui,281000,12,19.6,359300,573900,59.7,28000,2,86.0,3.2,0
+BEN-0058,Vallee du Bandama,Semi-urbain,Femme,44,Marie(e),Primaire,Agriculture,Solidaire,Groupe B,3,4,Oui,Non,106000,12,2.8,114000,185900,63.1,4600,0,100.0,4.5,0
+BEN-0059,Cavally,Semi-urbain,Femme,55,Marie(e),Aucun,Commerce,Solidaire,Groupe A,1,3,Non,Non,70000,18,2.9,185200,197400,6.6,16300,1,79.7,1.6,1
+BEN-0060,Zanzan,Semi-urbain,Femme,31,Marie(e),Aucun,Commerce,Individuel,Groupe A,2,11,Non,Oui,296000,18,6.8,107100,148300,38.5,15400,1,86.4,3.8,0
+BEN-0061,Vallee du Bandama,Rural,Homme,51,Celibataire,Secondaire,Agriculture,Solidaire,Groupe B,0,7,Non,Non,187000,12,16.7,201800,258100,27.9,9300,0,,2.5,1
+BEN-0062,Belier,Rural,Femme,38,Marie(e),Aucun,Commerce,Solidaire,Groupe A,1,4,Oui,Non,88000,18,23.0,,140400,-8.6,3100,2,,2.4,1
+BEN-0063,Zanzan,Rural,Femme,25,Celibataire,Aucun,Elevage,Solidaire,Groupe C,4,10,Oui,Non,139000,12,15.2,294600,371400,26.1,19000,0,100.0,3.5,1
+BEN-0064,Cavally,Semi-urbain,Femme,43,Marie(e),Aucun,Agriculture,Solidaire,Groupe B,5,2,Non,Oui,217000,12,14.7,69100,88400,27.9,9700,3,100.0,2.6,1
+BEN-0065,Belier,Rural,Femme,28,Marie(e),Aucun,Commerce,Individuel,Groupe A,3,5,Oui,Non,708000,24,25.1,56300,71200,26.5,,1,,,1
+BEN-0066,Cavally,Rural,Femme,53,Marie(e),Primaire,Services,Individuel,Groupe C,2,8,Oui,Non,292000,24,61.4,155500,198800,27.8,1100,1,78.1,4.3,0
+BEN-0067,Cavally,Rural,Femme,37,Celibataire,Aucun,Agriculture,Individuel,Groupe A,2,5,Oui,Non,471000,18,15.9,105800,116500,10.1,4900,1,68.7,4.0,0
+BEN-0068,Vallee du Bandama,Semi-urbain,Femme,43,Celibataire,Primaire,Agriculture,Individuel,Groupe B,7,4,Oui,Oui,664000,12,5.7,107600,153600,42.8,6400,2,99.1,2.5,0
+BEN-0069,Zanzan,Rural,Femme,35,Celibataire,Primaire,Commerce,Solidaire,Groupe C,0,8,Oui,Oui,471000,12,27.2,82300,96200,16.9,12100,1,94.0,3.2,1
+BEN-0070,Belier,Urbain,Femme,32,Veuf/Veuve,Primaire,Agriculture,Individuel,Groupe B,2,6,Oui,Non,307000,12,0.5,170300,210400,23.5,14400,2,91.8,2.4,1
+BEN-0071,Belier,Rural,Femme,41,Marie(e),Aucun,Commerce,Individuel,Groupe A,3,6,Oui,Oui,606000,12,20.5,79200,108200,36.6,,1,69.5,1.9,0
+BEN-0072,Zanzan,Semi-urbain,Femme,43,Marie(e),Superieur,Artisanat,Solidaire,Groupe C,5,2,Non,Oui,497000,12,36.9,119200,137000,14.9,8200,1,94.6,5.0,0
+BEN-0073,Belier,Rural,Homme,42,Marie(e),Aucun,Commerce,Individuel,Groupe A,2,8,Oui,Oui,555000,12,15.4,134100,154600,15.3,2800,1,59.0,1.1,1
+BEN-0074,Marahoue,Rural,Femme,30,Divorce(e),Aucun,Artisanat,Solidaire,Groupe A,0,8,Oui,Non,216000,24,15.2,23100,32800,42.0,1800,0,85.1,2.5,1
+BEN-0075,Marahoue,Semi-urbain,Homme,38,Marie(e),Primaire,Commerce,Solidaire,Groupe B,0,6,Oui,Non,481000,24,28.0,90400,94400,4.4,7700,1,100.0,2.9,0
+BEN-0076,Zanzan,Rural,Femme,48,Marie(e),Primaire,Services,Solidaire,Groupe A,4,4,Oui,Oui,285000,18,15.1,139000,120700,-13.2,,3,,3.2,0
+BEN-0077,Vallee du Bandama,Rural,Femme,18,Marie(e),Superieur,Commerce,Solidaire,Groupe C,3,7,Non,Non,514000,6,66.4,234500,220600,-5.9,8700,1,100.0,2.9,1
+BEN-0078,Marahoue,Semi-urbain,Homme,25,Celibataire,Aucun,Elevage,Solidaire,Groupe B,4,6,Non,Oui,146000,18,16.6,131500,166600,26.7,1300,0,100.0,2.0,1
+BEN-0079,Vallee du Bandama,Rural,Femme,43,Marie(e),Secondaire,Artisanat,Solidaire,Groupe C,1,7,Oui,Non,116000,12,16.0,107600,144000,33.8,14400,0,,3.3,1
+BEN-0080,Vallee du Bandama,Urbain,Homme,48,Marie(e),Secondaire,Artisanat,Individuel,Groupe C,2,9,Oui,Oui,726000,24,0.5,135500,160200,18.2,11100,1,78.1,3.8,0
+BEN-0081,Marahoue,Semi-urbain,Femme,19,Veuf/Veuve,Secondaire,Commerce,Individuel,Groupe A,0,7,Oui,Oui,277000,12,6.3,164800,195600,18.7,,0,83.6,3.7,0
+BEN-0082,Vallee du Bandama,Urbain,Homme,32,Marie(e),Primaire,Commerce,Solidaire,Groupe A,3,6,Oui,Oui,298000,12,0.5,143000,215100,50.4,20900,0,98.4,2.9,1
+BEN-0083,Vallee du Bandama,Rural,Femme,35,Marie(e),Aucun,Agriculture,Individuel,Groupe A,2,1,Oui,Non,919000,24,16.9,51800,52700,1.7,5300,2,62.5,1.4,1
+BEN-0084,Zanzan,Semi-urbain,Homme,19,Marie(e),Primaire,Agriculture,Solidaire,Groupe B,2,7,Oui,Oui,305000,18,16.4,,343800,32.8,8900,1,93.8,3.4,1
+BEN-0085,Vallee du Bandama,Urbain,Femme,24,Marie(e),Primaire,Agriculture,Solidaire,Groupe B,3,4,Oui,Oui,422000,12,5.0,319800,443100,38.6,6900,3,85.3,3.4,0
+BEN-0086,Zanzan,Urbain,Homme,28,Marie(e),Primaire,Commerce,Solidaire,Groupe A,1,2,Oui,Oui,436000,6,0.5,349800,371100,6.1,33600,2,86.1,,1
+BEN-0087,Vallee du Bandama,Urbain,Femme,18,Marie(e),Aucun,Agriculture,Individuel,Groupe C,1,5,Oui,Oui,352000,36,11.6,232100,288600,24.3,22400,1,81.4,3.9,1
+BEN-0088,Vallee du Bandama,Rural,Homme,29,Marie(e),Primaire,Agriculture,Solidaire,Groupe A,0,4,Oui,Non,531000,6,33.6,137500,165600,20.4,10600,0,92.7,3.7,0
+BEN-0089,Vallee du Bandama,Rural,Homme,72,Celibataire,Secondaire,Transformation,Individuel,Groupe A,5,6,Non,Non,491000,12,41.2,,219700,23.2,20000,1,92.8,2.4,1
+BEN-0090,Vallee du Bandama,Rural,Femme,52,Marie(e),Primaire,Agriculture,Individuel,Groupe C,3,4,Oui,Non,537000,24,16.9,69200,77000,11.3,4200,1,,3.8,0
+BEN-0091,Vallee du Bandama,Semi-urbain,Femme,38,Marie(e),Primaire,Artisanat,Individuel,Groupe B,2,4,Oui,Oui,510000,18,12.9,39300,42300,7.6,1700,0,66.9,3.3,0
+BEN-0092,Vallee du Bandama,Rural,Femme,22,Veuf/Veuve,Superieur,Agriculture,Solidaire,Groupe A,2,1,Non,Non,258000,18,15.8,,148500,31.9,13900,5,98.5,5.0,0
+BEN-0093,Marahoue,Rural,Femme,20,Marie(e),Aucun,Commerce,Individuel,Groupe B,2,4,Oui,Non,509000,12,17.4,20100,28600,42.3,,1,79.8,2.6,1
+BEN-0094,Belier,Semi-urbain,Femme,29,Veuf/Veuve,Aucun,Elevage,Solidaire,Groupe C,1,8,Non,Oui,72000,36,29.3,120400,155500,29.2,7600,1,90.4,1.0,1
+BEN-0095,Zanzan,Semi-urbain,Femme,32,Celibataire,Primaire,Agriculture,Solidaire,Groupe C,4,5,Oui,Oui,488000,18,14.1,131600,138900,5.5,7100,2,100.0,3.6,0
+BEN-0096,Vallee du Bandama,Urbain,Homme,24,Marie(e),Superieur,Commerce,Solidaire,Groupe C,2,6,Oui,Oui,421000,6,0.5,429900,658500,53.2,3500,2,100.0,2.4,1
+BEN-0097,Vallee du Bandama,Rural,Femme,27,Veuf/Veuve,Primaire,Services,Solidaire,Groupe C,4,2,Non,Oui,91000,12,23.2,112900,125700,11.3,5800,0,90.3,2.2,1
+BEN-0098,Belier,Rural,Homme,24,Marie(e),Aucun,Commerce,Solidaire,Groupe C,0,4,Oui,Non,263000,6,28.4,60400,75200,24.5,2600,1,75.9,2.5,0
+BEN-0099,Vallee du Bandama,Rural,Femme,34,Marie(e),Aucun,Artisanat,Solidaire,Groupe C,0,3,Non,Non,195000,24,55.4,91100,139100,52.7,9200,0,66.6,2.9,1
+BEN-0100,Marahoue,Semi-urbain,Femme,44,Marie(e),Secondaire,Commerce,Individuel,Groupe C,1,3,Non,Non,568000,12,0.9,145900,206900,41.8,8900,3,75.2,3.4,0
+BEN-0101,Zanzan,Semi-urbain,Homme,51,Marie(e),Secondaire,Commerce,Solidaire,Groupe A,1,4,Non,Non,333000,24,3.8,233000,261200,12.1,500,1,61.2,4.7,0
+BEN-0102,Vallee du Bandama,Urbain,Femme,18,Celibataire,Aucun,Commerce,Solidaire,Groupe C,3,7,Oui,Non,158000,6,0.5,184300,316800,71.9,23200,2,100.0,2.6,1
+BEN-0103,Cavally,Urbain,Femme,45,Celibataire,Secondaire,Artisanat,Solidaire,Groupe B,2,5,Oui,Oui,309000,18,4.6,246100,403300,63.9,27400,2,100.0,1.6,1
+BEN-0104,Vallee du Bandama,Semi-urbain,Femme,43,Celibataire,Primaire,Transformation,Solidaire,Groupe C,3,7,Oui,Oui,140000,18,14.7,142900,168400,17.8,9800,0,85.4,3.9,0
+BEN-0105,Vallee du Bandama,Semi-urbain,Homme,47,Celibataire,Aucun,Services,Solidaire,Groupe C,2,6,Non,Non,552000,18,15.2,182200,255900,40.5,8800,1,74.9,4.1,1
+BEN-0106,Cavally,Rural,Femme,41,Marie(e),Aucun,Commerce,Individuel,Groupe A,2,5,Oui,Non,277000,6,16.8,65000,68500,5.4,8000,1,69.3,2.7,1
+BEN-0107,Cavally,Rural,Femme,36,Marie(e),Primaire,Agriculture,Solidaire,Groupe A,0,6,Oui,Non,472000,24,42.0,131400,153800,17.0,6600,0,67.7,3.2,1
+BEN-0108,Vallee du Bandama,Semi-urbain,Homme,56,Celibataire,Secondaire,Agriculture,Solidaire,Groupe B,1,4,Oui,Non,97000,12,9.4,214900,275700,28.3,21000,0,100.0,3.7,1
+BEN-0109,Vallee du Bandama,Urbain,Homme,25,Marie(e),Primaire,Agriculture,Solidaire,Groupe A,1,4,Non,Oui,32000,18,0.5,231000,275900,19.4,7600,0,90.6,4.3,0
+BEN-0110,Zanzan,Rural,Femme,26,Marie(e),Primaire,Artisanat,Solidaire,Groupe A,1,2,Non,Oui,188000,12,36.8,71100,87500,23.1,9100,0,79.2,2.1,1
+BEN-0111,Belier,Rural,Femme,47,Marie(e),Superieur,Artisanat,Individuel,Groupe B,1,4,Non,Oui,634000,12,17.9,274300,320600,16.9,18400,0,85.9,1.8,1
+BEN-0112,Marahoue,Semi-urbain,Homme,37,Marie(e),Secondaire,Commerce,Solidaire,Groupe B,1,7,Oui,Oui,164000,12,9.0,246300,292300,18.7,14300,0,100.0,4.6,0
+BEN-0113,Belier,Urbain,Femme,31,Divorce(e),Aucun,Artisanat,Solidaire,Groupe B,2,3,Oui,Non,186000,18,9.9,151800,205900,35.6,3900,1,83.5,5.0,0
+BEN-0114,Vallee du Bandama,Semi-urbain,Femme,35,Marie(e),Aucun,Elevage,Solidaire,Groupe C,4,5,Non,Oui,110000,24,15.5,99900,126800,26.9,1400,0,93.9,4.7,0
+BEN-0115,Belier,Rural,Femme,29,Divorce(e),Secondaire,Services,Individuel,Groupe A,1,8,Oui,Non,282000,24,41.7,148900,213900,43.7,14500,2,96.1,5.0,0
+BEN-0116,Zanzan,Urbain,Homme,27,Celibataire,Aucun,Services,Solidaire,Groupe C,2,10,Non,Oui,140000,36,0.5,141600,173900,22.8,6100,2,63.2,4.7,0
+BEN-0117,Zanzan,Rural,Femme,45,Divorce(e),Secondaire,Agriculture,Solidaire,Groupe A,1,1,Oui,Non,213000,12,20.3,174500,206100,18.1,17200,0,99.2,2.0,1
+BEN-0118,Vallee du Bandama,Semi-urbain,Homme,55,Marie(e),Superieur,Transformation,Solidaire,Groupe B,3,9,Non,Non,815000,18,3.4,151000,212900,41.0,23700,1,100.0,4.1,0
+BEN-0119,Cavally,Semi-urbain,Homme,31,Celibataire,Primaire,Agriculture,Solidaire,Groupe B,1,3,Non,Non,171000,18,9.8,97800,151000,54.4,10100,0,100.0,,0
+BEN-0120,Vallee du Bandama,Rural,Femme,29,Celibataire,Secondaire,Agriculture,Solidaire,Groupe C,1,4,Non,Non,92000,18,54.5,65600,75200,14.6,3100,0,100.0,3.6,0
+BEN-0121,Vallee du Bandama,Urbain,Femme,39,Veuf/Veuve,Primaire,Commerce,Individuel,Groupe C,0,4,Oui,Oui,163000,12,0.5,283400,424800,49.9,3900,0,65.3,1.0,1
+BEN-0122,Belier,Semi-urbain,Homme,55,Celibataire,Aucun,Services,Individuel,Groupe B,1,5,Oui,Non,719000,6,8.8,130900,174800,33.5,3200,0,58.1,1.6,1
+BEN-0123,Belier,Semi-urbain,Femme,38,Marie(e),Primaire,Services,Individuel,Groupe A,1,6,Oui,Oui,662000,18,2.5,209800,253200,20.7,14200,1,89.5,2.6,1
+BEN-0124,Vallee du Bandama,Semi-urbain,Femme,35,Marie(e),Aucun,Commerce,Solidaire,Groupe A,3,8,Non,Non,310000,12,9.3,33500,48700,45.4,300,3,100.0,,0
+BEN-0125,Belier,Urbain,Femme,45,Marie(e),Primaire,Commerce,Individuel,Groupe A,1,9,Oui,Oui,683000,12,0.5,181800,187200,3.0,10300,1,70.0,3.8,1
+BEN-0126,Zanzan,Urbain,Homme,48,Marie(e),Superieur,Agriculture,Solidaire,Groupe B,1,7,Non,Oui,210000,24,0.5,193200,258600,33.9,3000,4,100.0,4.0,0
+BEN-0127,Zanzan,Urbain,Femme,32,Marie(e),Secondaire,Agriculture,Solidaire,Groupe B,0,7,Oui,Oui,128000,24,1.0,146400,162500,11.0,4000,1,82.4,4.2,0
+BEN-0128,Zanzan,Urbain,Femme,47,Celibataire,Primaire,Commerce,Solidaire,Groupe A,3,4,Oui,Oui,334000,18,0.5,748200,1003000,34.1,23500,2,100.0,1.3,1
+BEN-0129,Vallee du Bandama,Rural,Femme,39,Marie(e),Aucun,Services,Solidaire,Groupe C,1,7,Non,Oui,560000,12,24.6,16700,17900,7.2,1100,1,79.7,3.9,0
+BEN-0130,Cavally,Urbain,Homme,27,Marie(e),Primaire,Agriculture,Solidaire,Groupe C,2,4,Oui,Oui,1007000,18,0.5,476200,547500,15.0,34200,1,100.0,3.1,1
+BEN-0131,Zanzan,Rural,Femme,44,Marie(e),Primaire,Services,Solidaire,Groupe C,1,3,Non,Non,187000,12,16.2,199000,196300,-1.4,25200,1,79.0,2.8,1
+BEN-0132,Zanzan,Urbain,Homme,30,Marie(e),Aucun,Transformation,Solidaire,Groupe C,3,7,Non,Oui,654000,12,8.8,87000,114700,31.8,1900,0,100.0,4.7,0
+BEN-0133,Vallee du Bandama,Rural,Femme,48,Marie(e),Aucun,Artisanat,Individuel,Groupe C,4,5,Oui,Non,388000,18,27.4,216700,356500,64.5,18500,1,98.0,3.4,1
+BEN-0134,Zanzan,Rural,Homme,35,Marie(e),Secondaire,Commerce,Solidaire,Groupe A,2,6,Non,Oui,311000,12,21.9,232400,307400,32.3,7200,3,,3.9,0
+BEN-0135,Zanzan,Urbain,Femme,40,Celibataire,Aucun,Commerce,Solidaire,Groupe B,2,6,Oui,Oui,324000,12,0.5,170400,187100,9.8,2100,1,100.0,1.5,1
+BEN-0136,Cavally,Semi-urbain,Homme,38,Marie(e),Secondaire,Agriculture,Solidaire,Groupe A,0,6,Non,Oui,184000,6,41.0,126900,180200,42.0,15900,0,98.8,3.9,0
+BEN-0137,Vallee du Bandama,Urbain,Femme,32,Marie(e),Primaire,Elevage,Individuel,Groupe A,4,5,Non,Non,238000,18,0.5,84000,106700,27.0,800,1,98.8,4.3,0
+BEN-0138,Marahoue,Rural,Homme,18,Marie(e),Primaire,Artisanat,Individuel,Groupe C,3,5,Non,Non,388000,24,22.7,87800,108200,23.2,500,2,99.8,1.6,1
+BEN-0139,Zanzan,Urbain,Femme,29,Marie(e),Aucun,Agriculture,Individuel,Groupe C,1,9,Non,Non,601000,18,4.0,,183200,49.4,,1,92.2,,0
+BEN-0140,Cavally,Urbain,Homme,28,Veuf/Veuve,Primaire,Artisanat,Solidaire,Groupe A,2,2,Oui,Oui,128000,24,3.9,341000,413600,21.3,12700,0,100.0,3.4,0
+BEN-0141,Belier,Semi-urbain,Homme,23,Celibataire,Secondaire,Artisanat,Individuel,Groupe B,1,3,Non,Oui,749000,12,5.2,143600,174800,21.7,14000,3,98.7,4.0,1
+BEN-0142,Vallee du Bandama,Semi-urbain,Femme,20,Divorce(e),Primaire,Commerce,Individuel,Groupe B,3,4,Non,Non,604000,18,0.8,170900,249900,46.2,2700,1,85.2,2.1,1
+BEN-0143,Vallee du Bandama,Semi-urbain,Femme,43,Marie(e),Secondaire,Artisanat,Solidaire,Groupe C,2,7,Non,Non,305000,24,1.4,342500,331800,-3.1,1100,0,100.0,4.2,0
+BEN-0144,Vallee du Bandama,Semi-urbain,Femme,35,Marie(e),Primaire,Commerce,Solidaire,Groupe C,2,9,Oui,Non,296000,12,19.6,130500,201300,54.3,10300,1,80.2,3.3,1
+BEN-0145,Belier,Rural,Femme,18,Marie(e),Aucun,Artisanat,Individuel,Groupe A,1,3,Oui,Non,532000,24,28.4,137600,163200,18.6,2200,0,74.5,4.9,0
+BEN-0146,Vallee du Bandama,Semi-urbain,Homme,43,Marie(e),Secondaire,Commerce,Solidaire,Groupe C,1,5,Oui,Non,262000,18,0.9,196000,288500,47.2,8200,5,96.6,3.8,0
+BEN-0147,Zanzan,Semi-urbain,Homme,18,Veuf/Veuve,Superieur,Commerce,Individuel,Groupe B,1,5,Non,Oui,401000,18,41.3,254500,325200,27.8,17900,3,83.6,2.7,1
+BEN-0148,Zanzan,Rural,Homme,38,Marie(e),Primaire,Elevage,Individuel,Groupe B,1,5,Oui,Non,182000,18,19.0,123100,145500,18.2,4600,0,,4.0,1
+BEN-0149,Marahoue,Rural,Femme,34,Celibataire,Aucun,Agriculture,Solidaire,Groupe B,1,4,Non,Oui,897000,24,16.5,236900,297200,25.5,6100,2,100.0,1.3,1
+BEN-0150,Vallee du Bandama,Semi-urbain,Homme,42,Marie(e),Secondaire,Agriculture,Solidaire,Groupe C,5,9,Oui,Oui,76000,12,11.6,201300,275900,37.1,11100,0,100.0,5.0,0
+BEN-0151,Belier,Rural,Femme,46,Marie(e),Secondaire,Commerce,Individuel,Groupe A,4,5,Oui,Non,376000,12,29.8,119100,127300,6.9,11500,0,74.5,4.6,0
+BEN-0152,Belier,Semi-urbain,Homme,51,Veuf/Veuve,Primaire,Commerce,Solidaire,Groupe B,2,5,Oui,Oui,768000,24,0.5,89600,84300,-5.9,,4,71.3,2.6,1
+BEN-0153,Vallee du Bandama,Semi-urbain,Homme,45,Marie(e),Primaire,Agriculture,Solidaire,Groupe B,2,4,Non,Oui,206000,36,5.6,279100,224300,-19.6,4000,0,100.0,,1
+BEN-0154,Vallee du Bandama,Semi-urbain,Homme,35,Marie(e),Primaire,Commerce,Individuel,Groupe B,0,5,Oui,Oui,490000,12,6.3,150400,189000,25.7,7600,3,86.9,3.1,1
+BEN-0155,Marahoue,Rural,Homme,23,Marie(e),Primaire,Services,Solidaire,Groupe C,2,3,Non,Non,491000,12,22.2,153600,169000,10.0,4700,5,100.0,5.0,0
+BEN-0156,Vallee du Bandama,Semi-urbain,Homme,37,Celibataire,Primaire,Elevage,Solidaire,Groupe C,2,7,Non,Non,555000,12,11.9,143500,174500,21.6,6500,2,96.5,3.0,1
+BEN-0157,Vallee du Bandama,Semi-urbain,Femme,41,Marie(e),Primaire,Commerce,Solidaire,Groupe A,2,6,Oui,Oui,30000,18,27.1,115500,161000,39.4,3200,0,79.3,3.2,0
+BEN-0158,Marahoue,Urbain,Homme,40,Marie(e),Primaire,Agriculture,Solidaire,Groupe B,1,3,Non,Oui,78000,24,28.4,102100,70500,-31.0,6700,0,98.3,3.7,0
+BEN-0159,Marahoue,Rural,Femme,24,Celibataire,Secondaire,Commerce,Solidaire,Groupe C,6,5,Oui,Oui,293000,6,34.1,,175100,53.3,14200,2,67.8,2.5,0
+BEN-0160,Zanzan,Rural,Femme,40,Marie(e),Aucun,Elevage,Solidaire,Groupe C,2,5,Non,Non,389000,24,73.7,226900,150000,-33.9,8000,2,92.7,3.4,0
+BEN-0161,Belier,Semi-urbain,Homme,35,Celibataire,Primaire,Elevage,Solidaire,Groupe A,2,3,Oui,Non,239000,18,16.3,107300,149100,39.0,1300,0,95.6,3.1,1
+BEN-0162,Zanzan,Semi-urbain,Femme,57,Marie(e),Aucun,Commerce,Individuel,Groupe B,2,4,Non,Non,216000,12,28.7,121000,189300,56.4,,1,85.3,4.4,1
+BEN-0163,Zanzan,Semi-urbain,Femme,42,Celibataire,Secondaire,Agriculture,Solidaire,Groupe A,4,6,Oui,Non,252000,12,5.0,86600,123000,42.0,3900,3,89.5,1.1,1
+BEN-0164,Marahoue,Urbain,Femme,39,Veuf/Veuve,Secondaire,Commerce,Solidaire,Groupe A,1,7,Non,Oui,626000,6,7.1,194500,240200,23.5,10700,2,100.0,3.4,1
+BEN-0165,Belier,Semi-urbain,Homme,50,Marie(e),Primaire,Commerce,Solidaire,Groupe B,0,4,Non,Non,356000,18,0.7,161600,145000,-10.3,6100,0,100.0,4.6,0
+BEN-0166,Marahoue,Rural,Femme,58,Divorce(e),Aucun,Commerce,Solidaire,Groupe C,3,5,Non,Non,494000,36,24.9,139900,176300,26.0,6900,1,96.4,4.0,0
+BEN-0167,Zanzan,Rural,Femme,48,Celibataire,Aucun,Agriculture,Individuel,Groupe B,1,3,Non,Oui,586000,12,,110600,148700,34.4,1500,3,55.1,3.5,1
+BEN-0168,Marahoue,Urbain,Femme,34,Marie(e),Secondaire,Agriculture,Solidaire,Groupe B,1,8,Non,Oui,262000,24,33.6,114100,163800,43.6,1800,1,78.6,1.8,1
+BEN-0169,Vallee du Bandama,Urbain,Femme,40,Veuf/Veuve,Primaire,Commerce,Solidaire,Groupe B,2,3,Oui,Oui,181000,6,0.5,219900,209200,-4.9,400,0,100.0,5.0,0
+BEN-0170,Marahoue,Rural,Femme,44,Veuf/Veuve,Secondaire,Artisanat,Solidaire,Groupe C,2,6,Oui,Non,167000,12,,152700,157100,2.9,9000,1,100.0,4.3,1
+BEN-0171,Zanzan,Rural,Femme,31,Celibataire,Primaire,Artisanat,Solidaire,Groupe C,5,7,Non,Non,223000,18,16.6,128000,179500,40.2,6200,1,89.4,2.9,1
+BEN-0172,Vallee du Bandama,Rural,Femme,52,Marie(e),Aucun,Transformation,Individuel,Groupe A,3,8,Non,Non,540000,24,16.1,323700,407600,25.9,17900,1,68.7,3.5,1
+BEN-0173,Zanzan,Semi-urbain,Femme,19,Marie(e),Aucun,Commerce,Solidaire,Groupe A,2,5,Non,Non,150000,18,42.5,33600,49200,46.4,700,0,100.0,3.3,0
+BEN-0174,Zanzan,Rural,Homme,32,Marie(e),Secondaire,Commerce,Individuel,Groupe C,4,6,Oui,Non,614000,12,18.5,,205900,37.7,10000,1,73.1,2.8,1
+BEN-0175,Belier,Semi-urbain,Femme,26,Marie(e),Primaire,Services,Solidaire,Groupe A,2,1,Non,Oui,1364000,12,36.0,346200,379100,9.5,17200,3,100.0,4.0,1
+BEN-0176,Cavally,Semi-urbain,Homme,35,Veuf/Veuve,Aucun,Commerce,Solidaire,Groupe C,2,5,Non,Oui,249000,24,3.5,217300,268700,23.7,10600,3,86.2,5.0,0
+BEN-0177,Vallee du Bandama,Rural,Femme,34,Marie(e),Primaire,Elevage,Solidaire,Groupe A,1,7,Non,Non,168000,12,81.6,118200,172000,45.5,11000,1,79.8,3.9,1
+BEN-0178,Marahoue,Urbain,Femme,37,Divorce(e),Primaire,Agriculture,Solidaire,Groupe A,0,7,Non,Oui,183000,18,0.5,141800,212600,49.9,8200,0,89.1,4.1,0
+BEN-0179,Marahoue,Semi-urbain,Homme,44,Marie(e),Aucun,Elevage,Individuel,Groupe B,1,6,Oui,Non,610000,6,7.6,92400,121000,31.0,12000,1,82.4,2.8,1
+BEN-0180,Cavally,Semi-urbain,Homme,30,Marie(e),Superieur,Commerce,Solidaire,Groupe A,1,5,Oui,Non,464000,12,23.1,167000,232200,39.0,12900,1,100.0,1.8,0
+BEN-0181,Belier,Urbain,Homme,41,Marie(e),Secondaire,Commerce,Solidaire,Groupe B,3,5,Oui,Oui,751000,24,3.2,496000,711900,43.5,8500,4,100.0,3.9,1
+BEN-0182,Belier,Rural,Homme,18,Divorce(e),Secondaire,Agriculture,Solidaire,Groupe B,0,8,Oui,Non,172000,12,24.4,135200,189200,39.9,5800,0,91.4,3.2,1
+BEN-0183,Marahoue,Semi-urbain,Femme,40,Marie(e),Primaire,Agriculture,Solidaire,Groupe B,1,8,Non,Non,419000,12,0.5,131200,124500,-5.1,19800,2,83.9,5.0,0
+BEN-0184,Vallee du Bandama,Urbain,Homme,44,Marie(e),Secondaire,Transformation,Individuel,Groupe C,2,9,Oui,Oui,289000,18,0.5,154400,256100,65.9,13700,0,100.0,3.0,0
+BEN-0185,Belier,Semi-urbain,Femme,41,Marie(e),Primaire,Commerce,Individuel,Groupe C,2,5,Oui,Oui,276000,6,4.9,81400,81200,-0.2,700,1,97.9,3.5,0
+BEN-0186,Zanzan,Urbain,Homme,43,Divorce(e),Aucun,Commerce,Solidaire,Groupe A,1,8,Oui,Oui,90000,12,0.5,340300,349100,2.6,11000,1,86.1,3.4,1
+BEN-0187,Cavally,Rural,Femme,40,Veuf/Veuve,Primaire,Artisanat,Solidaire,Groupe A,0,7,Oui,Non,334000,24,37.7,83500,85600,2.5,4200,2,76.7,3.7,0
+BEN-0188,Cavally,Semi-urbain,Femme,27,Marie(e),Secondaire,Services,Solidaire,Groupe C,1,6,Non,Oui,376000,18,11.2,485900,586100,20.6,1300,2,100.0,4.3,0
+BEN-0189,Cavally,Rural,Femme,22,Marie(e),Secondaire,Commerce,Solidaire,Groupe C,2,4,Oui,Non,309000,24,17.2,67700,77900,15.1,8300,1,90.2,3.3,1
+BEN-0190,Vallee du Bandama,Rural,Femme,30,Marie(e),Aucun,Commerce,Individuel,Groupe A,1,5,Oui,Non,1185000,24,31.4,73900,55100,-25.4,1600,1,83.5,3.8,0
+BEN-0191,Zanzan,Urbain,Homme,38,Marie(e),Primaire,Commerce,Individuel,Groupe C,2,8,Non,Oui,554000,24,1.6,193600,222100,14.7,12300,4,70.7,3.0,1
+BEN-0192,Marahoue,Rural,Femme,22,Celibataire,Secondaire,Agriculture,Solidaire,Groupe A,1,4,Non,Non,302000,24,22.2,213000,311300,46.2,16800,1,100.0,3.4,1
+BEN-0193,Zanzan,Urbain,Homme,26,Celibataire,Secondaire,Agriculture,Solidaire,Groupe B,3,5,Non,Oui,232000,36,,,211600,30.2,8900,1,96.7,3.6,0
+BEN-0194,Vallee du Bandama,Urbain,Femme,25,Celibataire,Superieur,Artisanat,Individuel,Groupe A,0,3,Oui,Oui,514000,12,4.1,203200,258000,27.0,4500,1,98.5,2.6,1
+BEN-0195,Belier,Urbain,Femme,38,Marie(e),Secondaire,Artisanat,Solidaire,Groupe A,3,6,Oui,Oui,453000,36,0.5,202300,309400,52.9,4400,1,93.1,4.2,0
+BEN-0196,Vallee du Bandama,Urbain,Femme,46,Veuf/Veuve,Aucun,Services,Solidaire,Groupe B,1,6,Oui,Oui,437000,12,15.2,174800,187800,7.4,14600,4,100.0,4.1,0
+BEN-0197,Belier,Semi-urbain,Femme,26,Celibataire,Primaire,Elevage,Individuel,Groupe A,2,5,Oui,Non,112000,18,36.6,96600,124000,28.4,1600,1,70.4,2.5,1
+BEN-0198,Marahoue,Rural,Homme,23,Marie(e),Superieur,Agriculture,Solidaire,Groupe C,0,3,Non,Oui,160000,12,36.5,278100,468700,68.5,45700,1,98.2,5.0,1
+BEN-0199,Belier,Rural,Homme,37,Veuf/Veuve,Secondaire,Services,Solidaire,Groupe A,4,3,Oui,Oui,352000,24,15.9,170700,232500,36.2,19000,2,93.8,3.1,0
+BEN-0200,Zanzan,Semi-urbain,Femme,18,Marie(e),Secondaire,Services,Solidaire,Groupe C,5,7,Non,Non,647000,12,5.7,79000,90900,15.1,,1,100.0,2.8,0
+BEN-0201,Marahoue,Urbain,Femme,40,Veuf/Veuve,Primaire,Agriculture,Solidaire,Groupe A,2,7,Non,Oui,180000,18,0.5,144600,195800,35.4,3000,0,96.4,3.2,0
+BEN-0202,Cavally,Urbain,Femme,23,Divorce(e),Secondaire,Commerce,Solidaire,Groupe A,1,5,Oui,Non,300000,24,2.0,238400,322000,35.1,38200,1,95.7,2.7,1
+BEN-0203,Zanzan,Semi-urbain,Femme,28,Celibataire,Primaire,Services,Solidaire,Groupe B,0,5,Non,Non,113000,6,6.8,97500,108200,11.0,10900,1,63.7,3.5,0
+BEN-0204,Vallee du Bandama,Semi-urbain,Femme,26,Celibataire,Primaire,Commerce,Solidaire,Groupe C,0,7,Non,Non,155000,24,5.3,89800,111500,24.2,300,0,87.6,,0
+BEN-0205,Cavally,Rural,Femme,31,Celibataire,Aucun,Artisanat,Solidaire,Groupe C,4,9,Non,Oui,555000,24,40.8,257100,325200,26.5,25200,2,100.0,3.4,1
+BEN-0206,Belier,Urbain,Femme,53,Marie(e),Secondaire,Agriculture,Solidaire,Groupe A,0,4,Oui,Oui,280000,6,0.5,354800,607900,71.3,15600,0,93.9,2.7,0
+BEN-0207,Cavally,Urbain,Femme,38,Celibataire,Primaire,Artisanat,Solidaire,Groupe A,3,5,Non,Oui,355000,18,53.4,263600,353600,34.1,10100,1,100.0,3.1,1
+BEN-0208,Zanzan,Semi-urbain,Femme,37,Marie(e),Aucun,Commerce,Individuel,Groupe A,1,7,Oui,Oui,272000,24,,125900,128700,2.2,8700,4,100.0,4.1,1
+BEN-0209,Vallee du Bandama,Rural,Femme,41,Marie(e),Aucun,Artisanat,Individuel,Groupe A,3,5,Non,Non,616000,6,51.3,,156300,15.5,5800,1,,3.6,1
+BEN-0210,Marahoue,Rural,Homme,25,Celibataire,Secondaire,Commerce,Solidaire,Groupe A,2,5,Non,Non,232000,12,22.3,244300,205900,-15.7,14900,3,90.9,4.0,0
+BEN-0211,Vallee du Bandama,Rural,Femme,48,Celibataire,Aucun,Agriculture,Solidaire,Groupe A,3,3,Non,Non,407000,12,44.5,100900,105500,4.6,500,1,74.9,3.3,0
+BEN-0212,Zanzan,Urbain,Femme,43,Divorce(e),Superieur,Artisanat,Individuel,Groupe B,5,5,Oui,Non,482000,18,0.5,112700,154300,36.9,13700,1,94.6,2.9,1
+BEN-0213,Zanzan,Urbain,Homme,20,Veuf/Veuve,Secondaire,Agriculture,Solidaire,Groupe A,0,6,Oui,Oui,187000,12,0.5,473300,619700,30.9,23100,2,89.4,4.2,1
+BEN-0214,Zanzan,Rural,Homme,21,Divorce(e),Primaire,Artisanat,Solidaire,Groupe B,1,8,Oui,Non,445000,24,,105400,123300,17.0,6200,2,78.0,1.0,1
+BEN-0215,Belier,Urbain,Femme,31,Marie(e),Primaire,Elevage,Solidaire,Groupe B,1,5,Oui,Oui,114000,6,0.5,160800,153200,-4.7,900,0,81.3,2.6,1
+BEN-0216,Marahoue,Rural,Femme,37,Celibataire,Primaire,Elevage,Individuel,Groupe B,0,7,Non,Non,709000,18,15.8,113400,115400,1.8,3900,2,59.3,5.0,0
+BEN-0217,Zanzan,Rural,Femme,51,Marie(e),Aucun,Services,Individuel,Groupe C,2,8,Non,Oui,733000,24,34.8,148400,149000,0.4,9900,1,88.3,3.6,1
+BEN-0218,Cavally,Semi-urbain,Femme,52,Marie(e),Secondaire,Transformation,Solidaire,Groupe C,1,6,Non,Non,167000,12,19.5,126300,173100,37.1,8400,0,96.9,5.0,0
+BEN-0219,Vallee du Bandama,Rural,Femme,37,Marie(e),Aucun,Commerce,Solidaire,Groupe B,2,7,Oui,Oui,159000,18,33.9,302700,250100,-17.4,15400,1,86.2,4.2,1
+BEN-0220,Marahoue,Urbain,Femme,32,Marie(e),Aucun,Elevage,Individuel,Groupe A,1,6,Non,Oui,245000,24,0.5,107100,146200,36.5,5600,1,74.0,4.9,0
+BEN-0221,Zanzan,Rural,Femme,48,Marie(e),Superieur,Services,Solidaire,Groupe A,4,7,Non,Non,349000,12,23.5,133200,189100,42.0,28500,0,100.0,2.1,1
+BEN-0222,Belier,Rural,Femme,47,Marie(e),Aucun,Agriculture,Solidaire,Groupe C,1,2,Non,Non,343000,36,18.9,169300,185200,9.4,18900,3,90.9,4.8,0
+BEN-0223,Zanzan,Rural,Homme,53,Marie(e),Primaire,Artisanat,Solidaire,Groupe B,1,8,Non,Non,318000,12,42.4,101000,101400,0.4,4500,2,80.8,3.6,0
+BEN-0224,Vallee du Bandama,Urbain,Femme,39,Marie(e),Superieur,Services,Solidaire,Groupe A,1,6,Non,Oui,277000,12,0.5,282300,348600,23.5,2600,1,100.0,4.1,0
+BEN-0225,Cavally,Semi-urbain,Femme,28,Celibataire,Superieur,Commerce,Solidaire,Groupe A,1,3,Oui,Non,167000,12,12.4,80400,133300,65.8,4600,0,88.5,3.0,0
+BEN-0226,Cavally,Urbain,Femme,23,Celibataire,Primaire,Commerce,Solidaire,Groupe B,3,7,Non,Oui,410000,12,8.4,320700,481300,50.1,24900,5,99.4,3.3,1
+BEN-0227,Belier,Urbain,Femme,42,Marie(e),Aucun,Commerce,Solidaire,Groupe C,3,4,Non,Non,321000,18,0.8,202000,338200,67.4,18400,1,78.5,2.3,1
+BEN-0228,Belier,Rural,Homme,32,Marie(e),Primaire,Agriculture,Individuel,Groupe C,3,6,Oui,Oui,704000,18,51.6,75900,105200,38.6,2600,0,52.9,,1
+BEN-0229,Belier,Rural,Femme,32,Celibataire,Secondaire,Agriculture,Individuel,Groupe B,1,7,Non,Non,583000,6,28.4,228600,186300,-18.5,15600,3,68.6,3.5,1
+BEN-0230,Marahoue,Urbain,Femme,29,Celibataire,Secondaire,Transformation,Solidaire,Groupe A,3,4,Non,Oui,126000,12,4.1,183800,272300,48.2,2200,0,100.0,5.0,0
+BEN-0231,Vallee du Bandama,Urbain,Femme,28,Marie(e),Superieur,Artisanat,Solidaire,Groupe B,3,2,Non,Oui,352000,12,3.7,185400,257800,39.1,13400,0,100.0,4.5,0
+BEN-0232,Zanzan,Urbain,Femme,39,Marie(e),Aucun,Commerce,Solidaire,Groupe A,1,6,Oui,Oui,242000,12,0.5,369400,421600,14.1,30600,1,88.1,2.7,1
+BEN-0233,Marahoue,Rural,Homme,36,Veuf/Veuve,Primaire,Commerce,Solidaire,Groupe C,2,8,Oui,Oui,89000,12,30.8,80300,78800,-1.9,1600,0,100.0,,1
+BEN-0234,Vallee du Bandama,Semi-urbain,Femme,40,Celibataire,Superieur,Elevage,Individuel,Groupe A,3,4,Non,Oui,501000,18,9.6,130100,146700,12.8,1500,1,100.0,5.0,0
+BEN-0235,Marahoue,Urbain,Homme,32,Marie(e),Primaire,Artisanat,Individuel,Groupe C,2,11,Oui,Oui,487000,24,22.6,110400,128800,16.7,9200,0,75.5,3.9,0
+BEN-0236,Marahoue,Rural,Femme,41,Celibataire,Primaire,Commerce,Individuel,Groupe A,1,4,Oui,Oui,632000,6,21.6,58000,66700,15.0,7700,1,94.9,3.4,0
+BEN-0237,Zanzan,Urbain,Femme,56,Marie(e),Primaire,Transformation,Solidaire,Groupe A,2,5,Non,Oui,309000,18,0.5,270000,298800,10.7,11600,3,83.6,3.5,0
+BEN-0238,Zanzan,Urbain,Femme,33,Celibataire,Aucun,Elevage,Solidaire,Groupe C,3,3,Non,Oui,90000,12,21.5,74000,86300,16.6,1300,0,100.0,2.7,0
+BEN-0239,Cavally,Rural,Homme,38,Marie(e),Secondaire,Artisanat,Individuel,Groupe B,0,7,Non,Oui,514000,12,18.5,163500,154300,-5.6,5900,2,,3.4,1
+BEN-0240,Belier,Rural,Femme,51,Divorce(e),Primaire,Agriculture,Solidaire,Groupe B,2,4,Non,Non,443000,6,25.8,30400,30100,-1.0,200,4,82.6,3.9,0
+BEN-0241,Cavally,Semi-urbain,Femme,34,Celibataire,Aucun,Services,Individuel,Groupe C,1,8,Oui,Non,530000,36,3.2,206700,228100,10.4,16600,0,69.9,2.2,1
+BEN-0242,Belier,Rural,Femme,41,Veuf/Veuve,Primaire,Agriculture,Solidaire,Groupe B,4,4,Oui,Non,85000,6,16.3,69800,67800,-2.9,6100,0,93.4,1.7,1
+BEN-0243,Marahoue,Rural,Homme,35,Veuf/Veuve,Aucun,Agriculture,Individuel,Groupe A,1,5,Oui,Non,339000,24,35.3,87000,97000,11.5,4500,3,,3.1,1
+BEN-0244,Belier,Semi-urbain,Homme,23,Celibataire,Aucun,Artisanat,Solidaire,Groupe B,4,5,Non,Non,329000,36,0.7,271100,260400,-3.9,6000,2,73.4,3.5,1
+BEN-0245,Zanzan,Rural,Femme,46,Divorce(e),Secondaire,Services,Individuel,Groupe A,0,3,Non,Non,701000,6,28.3,200000,256400,28.2,36200,0,80.1,3.8,0
+BEN-0246,Belier,Urbain,Homme,47,Marie(e),Superieur,Artisanat,Solidaire,Groupe B,4,4,Oui,Oui,254000,18,16.9,206800,281100,35.9,5600,1,100.0,4.1,1
+BEN-0247,Zanzan,Rural,Femme,34,Celibataire,Secondaire,Services,Solidaire,Groupe C,1,5,Non,Non,307000,36,25.9,73600,80400,9.2,1300,1,100.0,4.2,0
+BEN-0248,Vallee du Bandama,Urbain,Femme,41,Divorce(e),Primaire,Commerce,Solidaire,Groupe A,2,7,Oui,Oui,1423000,12,0.5,183500,200100,9.0,5400,0,81.2,2.7,1
+BEN-0249,Zanzan,Urbain,Homme,43,Divorce(e),Secondaire,Transformation,Individuel,Groupe A,0,3,Non,Oui,585000,36,45.1,284100,332300,17.0,12500,0,60.0,3.4,1
+BEN-0250,Belier,Semi-urbain,Homme,41,Celibataire,Primaire,Artisanat,Solidaire,Groupe C,2,7,Non,Oui,332000,6,24.0,72500,90200,24.4,3400,0,92.2,3.1,1
+BEN-0251,Vallee du Bandama,Urbain,Femme,53,Celibataire,Aucun,Agriculture,Individuel,Groupe A,1,6,Non,Non,573000,12,0.5,222500,334500,50.3,27800,2,84.4,2.6,1
+BEN-0252,Vallee du Bandama,Semi-urbain,Femme,52,Marie(e),Aucun,Commerce,Solidaire,Groupe A,3,5,Oui,Non,350000,12,7.5,192500,272800,41.7,23100,1,100.0,3.3,0
+BEN-0253,Cavally,Semi-urbain,Femme,48,Celibataire,Superieur,Agriculture,Solidaire,Groupe C,2,6,Non,Oui,413000,18,1.5,,538600,38.0,3800,3,100.0,4.0,0
+BEN-0254,Marahoue,Semi-urbain,Homme,18,Veuf/Veuve,Aucun,Services,Individuel,Groupe A,2,4,Oui,Non,276000,12,22.9,98000,135500,38.3,,1,87.8,3.2,0
+BEN-0255,Zanzan,Urbain,Homme,42,Marie(e),Primaire,Agriculture,Solidaire,Groupe A,3,8,Non,Non,92000,18,0.5,180400,270700,50.1,10100,1,100.0,3.2,0
+BEN-0256,Cavally,Rural,Homme,54,Veuf/Veuve,Primaire,Artisanat,Individuel,Groupe C,4,8,Oui,Non,658000,24,46.4,150600,204100,35.5,5500,1,63.7,4.2,0
+BEN-0257,Vallee du Bandama,Semi-urbain,Femme,22,Marie(e),Primaire,Commerce,Individuel,Groupe B,2,5,Non,Non,364000,6,14.1,69300,98500,42.1,500,0,96.3,4.3,0
+BEN-0258,Belier,Rural,Homme,33,Veuf/Veuve,Aucun,Services,Solidaire,Groupe C,1,4,Non,Oui,173000,12,17.1,106000,93600,-11.7,2800,0,91.5,4.1,1
+BEN-0259,Marahoue,Rural,Femme,34,Marie(e),Primaire,Commerce,Solidaire,Groupe B,3,5,Oui,Non,285000,12,,136200,107100,-21.4,9500,1,100.0,3.7,1
+BEN-0260,Belier,Semi-urbain,Femme,34,Celibataire,Secondaire,Commerce,Individuel,Groupe B,2,1,Non,Oui,401000,36,2.9,139000,130000,-6.5,7700,2,86.2,3.6,0
+BEN-0261,Zanzan,Urbain,Femme,35,Marie(e),Aucun,Elevage,Solidaire,Groupe C,5,7,Oui,Oui,372000,6,0.5,147100,238800,62.3,7800,1,100.0,4.3,0
+BEN-0262,Cavally,Semi-urbain,Homme,37,Marie(e),Secondaire,Artisanat,Solidaire,Groupe B,1,6,Non,Oui,404000,6,10.1,247800,316600,27.8,17900,1,79.6,3.0,1
+BEN-0263,Marahoue,Rural,Femme,31,Marie(e),Superieur,Commerce,Individuel,Groupe C,0,3,Oui,Non,384000,6,40.1,196900,268000,36.1,21300,2,89.3,5.0,0
+BEN-0264,Marahoue,Urbain,Femme,51,Celibataire,Aucun,Agriculture,Solidaire,Groupe B,2,4,Oui,Oui,143000,18,0.5,84900,126400,48.9,1600,0,95.3,4.5,0
+BEN-0265,Marahoue,Urbain,Femme,33,Divorce(e),Aucun,Elevage,Individuel,Groupe A,1,1,Oui,Non,296000,18,0.5,132400,145800,10.1,900,1,72.6,2.7,0
+BEN-0266,Marahoue,Rural,Femme,40,Divorce(e),Superieur,Agriculture,Individuel,Groupe B,1,2,Non,Non,371000,6,19.3,409500,573400,40.0,19800,2,73.1,4.5,1
+BEN-0267,Zanzan,Urbain,Homme,41,Celibataire,Aucun,Agriculture,Solidaire,Groupe C,3,4,Oui,Oui,425000,6,0.5,240100,307500,28.1,5200,0,91.0,2.6,1
+BEN-0268,Marahoue,Urbain,Homme,23,Celibataire,Secondaire,Artisanat,Solidaire,Groupe C,2,7,Non,Oui,126000,12,0.5,152700,172800,13.2,12200,0,89.7,4.0,0
+BEN-0269,Marahoue,Urbain,Femme,32,Marie(e),Secondaire,Agriculture,Solidaire,Groupe B,2,5,Oui,Oui,220000,12,,137600,192400,39.8,15100,1,92.0,3.3,1
+BEN-0270,Vallee du Bandama,Urbain,Femme,47,Marie(e),Primaire,Commerce,Individuel,Groupe A,3,5,Oui,Oui,208000,36,0.5,103900,139600,34.4,9100,1,76.7,3.3,0
+BEN-0271,Zanzan,Semi-urbain,Homme,27,Veuf/Veuve,Superieur,Commerce,Solidaire,Groupe B,1,5,Oui,Non,148000,12,12.6,250300,285900,14.2,38200,0,85.7,3.8,1
+BEN-0272,Marahoue,Rural,Homme,48,Celibataire,Primaire,Services,Individuel,Groupe A,1,6,Oui,Oui,402000,36,34.5,215900,243700,12.9,7800,3,93.9,3.6,0
+BEN-0273,Marahoue,Semi-urbain,Femme,32,Marie(e),Primaire,Elevage,Solidaire,Groupe C,1,7,Oui,Non,694000,24,18.7,139200,152500,9.6,7300,1,81.1,3.2,0
+BEN-0274,Zanzan,Rural,Femme,44,Marie(e),Superieur,Transformation,Solidaire,Groupe C,1,3,Oui,Non,328000,24,26.8,148600,224900,51.3,13500,1,70.4,1.3,1
+BEN-0275,Vallee du Bandama,Rural,Homme,36,Celibataire,Superieur,Agriculture,Individuel,Groupe B,1,7,Non,Non,559000,36,25.0,246300,276700,12.3,13500,1,45.9,4.8,1
+BEN-0276,Vallee du Bandama,Semi-urbain,Homme,44,Celibataire,Secondaire,Artisanat,Individuel,Groupe B,1,4,Non,Oui,487000,12,7.6,109100,142800,30.9,3500,2,76.7,2.7,0
+BEN-0277,Cavally,Semi-urbain,Femme,25,Marie(e),Primaire,Artisanat,Solidaire,Groupe B,2,1,Oui,Oui,276000,12,10.8,177500,230200,29.7,17900,1,78.3,2.7,0
+BEN-0278,Vallee du Bandama,Rural,Homme,32,Veuf/Veuve,Primaire,Agriculture,Solidaire,Groupe C,0,4,Oui,Non,63000,12,16.9,,154800,8.7,,0,74.8,3.6,0
+BEN-0279,Zanzan,Rural,Femme,30,Marie(e),Secondaire,Agriculture,Solidaire,Groupe C,4,6,Non,Oui,287000,12,21.2,203800,365100,79.1,32900,2,96.0,,0
+BEN-0280,Zanzan,Semi-urbain,Femme,60,Marie(e),Primaire,Commerce,Individuel,Groupe A,2,4,Non,Oui,425000,18,10.0,51800,81200,56.8,13200,2,49.0,4.3,1
+BEN-0281,Cavally,Semi-urbain,Femme,48,Veuf/Veuve,Primaire,Elevage,Solidaire,Groupe B,1,6,Non,Non,230000,18,5.4,212100,232800,9.8,26300,1,87.1,2.1,1
+BEN-0282,Marahoue,Rural,Homme,46,Veuf/Veuve,Secondaire,Artisanat,Solidaire,Groupe B,0,4,Oui,Non,187000,36,15.7,184700,186100,0.8,9000,2,100.0,2.8,0
+BEN-0283,Vallee du Bandama,Semi-urbain,Femme,41,Celibataire,Secondaire,Commerce,Solidaire,Groupe A,0,7,Oui,Oui,212000,12,15.7,132000,163300,23.7,1600,0,98.6,1.7,1
+BEN-0284,Belier,Urbain,Femme,33,Marie(e),Primaire,Agriculture,Solidaire,Groupe A,2,8,Non,Non,87000,12,0.5,162400,211000,29.9,16900,0,100.0,4.2,0
+BEN-0285,Vallee du Bandama,Rural,Homme,42,Marie(e),Aucun,Commerce,Solidaire,Groupe C,3,6,Non,Oui,161000,6,20.1,70700,106900,51.2,6200,1,100.0,2.8,0
+BEN-0286,Marahoue,Urbain,Femme,49,Celibataire,Aucun,Commerce,Solidaire,Groupe C,4,7,Non,Oui,580000,6,0.5,159400,244600,53.5,21300,1,74.4,3.6,1
+BEN-0287,Vallee du Bandama,Rural,Femme,45,Veuf/Veuve,Aucun,Transformation,Solidaire,Groupe A,0,3,Oui,Non,148000,12,25.8,307700,390700,27.0,30000,1,,2.4,1
+BEN-0288,Vallee du Bandama,Urbain,Homme,43,Veuf/Veuve,Primaire,Agriculture,Solidaire,Groupe C,1,3,Non,Oui,353000,24,19.8,272600,329500,20.9,10900,3,100.0,2.2,1
+BEN-0289,Cavally,Rural,Femme,43,Marie(e),Aucun,Agriculture,Solidaire,Groupe A,0,4,Non,Oui,163000,6,32.6,118900,140500,18.2,2700,0,93.6,4.9,0
+BEN-0290,Vallee du Bandama,Rural,Femme,24,Marie(e),Primaire,Agriculture,Solidaire,Groupe C,2,4,Non,Non,297000,18,39.8,88000,87800,-0.2,4200,2,,,0
+BEN-0291,Vallee du Bandama,Urbain,Femme,22,Celibataire,Superieur,Commerce,Solidaire,Groupe B,1,4,Oui,Oui,409000,36,0.5,138700,150300,8.4,4900,0,68.8,3.2,0
+BEN-0292,Zanzan,Rural,Femme,41,Celibataire,Secondaire,Agriculture,Solidaire,Groupe B,3,7,Oui,Non,202000,6,15.4,263400,307100,16.6,20100,3,97.2,4.5,0
+BEN-0293,Zanzan,Urbain,Femme,40,Celibataire,Secondaire,Artisanat,Solidaire,Groupe B,1,5,Non,Oui,241000,12,0.5,105000,114300,8.9,12300,3,100.0,3.4,0
+BEN-0294,Zanzan,Rural,Homme,18,Marie(e),Secondaire,Agriculture,Individuel,Groupe B,2,4,Oui,Non,324000,12,21.6,142400,196600,38.1,7900,3,,2.4,0
+BEN-0295,Vallee du Bandama,Urbain,Femme,29,Celibataire,Superieur,Transformation,Solidaire,Groupe B,0,6,Oui,Oui,361000,24,0.5,212500,212700,0.1,3800,2,85.8,1.3,1
+BEN-0296,Vallee du Bandama,Urbain,Homme,27,Marie(e),Secondaire,Commerce,Individuel,Groupe A,0,4,Non,Non,135000,12,0.5,115900,127100,9.7,3700,1,69.0,,0
+BEN-0297,Belier,Urbain,Femme,55,Veuf/Veuve,Aucun,Artisanat,Solidaire,Groupe A,3,6,Oui,Oui,957000,6,20.7,262800,320200,21.8,4100,1,100.0,2.0,1
+BEN-0298,Vallee du Bandama,Urbain,Femme,60,Marie(e),Primaire,Elevage,Individuel,Groupe A,0,9,Oui,Oui,211000,12,3.6,183800,173600,-5.5,1000,0,100.0,2.7,0
+BEN-0299,Belier,Rural,Femme,32,Marie(e),Superieur,Commerce,Solidaire,Groupe B,0,2,Oui,Non,490000,18,,160400,205600,28.2,22900,1,100.0,5.0,0
+BEN-0300,Zanzan,Urbain,Homme,23,Veuf/Veuve,Primaire,Transformation,Solidaire,Groupe B,4,7,Oui,Oui,67000,12,18.9,100500,156700,55.9,6600,0,100.0,4.0,1
+BEN-0301,Zanzan,Rural,Femme,39,Divorce(e),Secondaire,Services,Solidaire,Groupe C,2,7,Oui,Non,76000,24,16.3,141900,120800,-14.9,8300,0,76.5,4.3,1
+BEN-0302,Cavally,Semi-urbain,Femme,25,Marie(e),Aucun,Transformation,Solidaire,Groupe A,0,7,Oui,Oui,249000,36,3.3,133000,198600,49.3,9300,0,82.7,3.6,1
+BEN-0303,Zanzan,Urbain,Homme,40,Marie(e),Secondaire,Agriculture,Individuel,Groupe B,0,6,Oui,Oui,377000,18,0.5,283300,347400,22.6,21000,1,93.0,4.7,0
+BEN-0304,Cavally,Semi-urbain,Femme,19,Marie(e),Aucun,Agriculture,Solidaire,Groupe C,1,6,Non,Oui,264000,18,1.6,401400,480700,19.8,16000,3,93.8,3.9,0
+BEN-0305,Belier,Semi-urbain,Homme,40,Veuf/Veuve,Primaire,Elevage,Individuel,Groupe A,1,4,Non,Non,233000,6,0.8,95900,114100,19.0,11800,1,84.7,3.7,1
+BEN-0306,Belier,Urbain,Femme,37,Marie(e),Primaire,Agriculture,Solidaire,Groupe A,3,3,Oui,Non,73000,18,7.5,129400,172600,33.4,5300,1,89.3,3.2,1
+BEN-0307,Vallee du Bandama,Rural,Femme,45,Celibataire,Primaire,Artisanat,Individuel,Groupe B,0,1,Non,Non,356000,24,20.1,121300,98700,-18.6,9600,0,65.8,3.7,0
+BEN-0308,Belier,Urbain,Homme,43,Divorce(e),Secondaire,Commerce,Solidaire,Groupe B,1,9,Oui,Oui,288000,6,61.7,152700,167200,9.5,6500,0,82.3,4.4,0
+BEN-0309,Cavally,Rural,Femme,29,Veuf/Veuve,Primaire,Transformation,Solidaire,Groupe B,1,4,Non,Oui,180000,18,,132300,164300,24.2,6100,0,64.2,2.1,1
+BEN-0310,Zanzan,Urbain,Femme,59,Celibataire,Secondaire,Commerce,Individuel,Groupe B,3,5,Non,Oui,238000,18,0.5,120500,187500,55.6,5600,1,85.7,4.2,0
+BEN-0311,Cavally,Rural,Homme,31,Marie(e),Primaire,Services,Solidaire,Groupe B,2,7,Non,Oui,476000,12,27.1,197400,198200,0.4,10100,2,78.3,3.4,0
+BEN-0312,Zanzan,Rural,Homme,34,Marie(e),Secondaire,Commerce,Solidaire,Groupe C,1,6,Non,Oui,136000,18,15.2,270400,293300,8.5,9600,0,93.6,2.2,1
+BEN-0313,Zanzan,Rural,Homme,42,Marie(e),Aucun,Artisanat,Solidaire,Groupe C,2,5,Non,Oui,272000,12,39.2,157000,233700,48.9,33100,4,100.0,1.0,0
+BEN-0314,Cavally,Rural,Femme,37,Marie(e),Aucun,Commerce,Individuel,Groupe C,1,4,Non,Non,884000,12,17.2,89700,122400,36.5,,2,59.4,3.8,0
+BEN-0315,Marahoue,Semi-urbain,Femme,44,Marie(e),Primaire,Agriculture,Individuel,Groupe C,1,7,Oui,Non,588000,18,6.9,119500,132000,10.5,1600,1,84.9,3.8,1
+BEN-0316,Vallee du Bandama,Rural,Femme,45,Celibataire,Secondaire,Agriculture,Solidaire,Groupe B,4,7,Non,Non,426000,36,23.3,86600,102000,17.8,4400,1,100.0,3.3,0
+BEN-0317,Belier,Urbain,Homme,29,Celibataire,Primaire,Commerce,Individuel,Groupe C,4,4,Non,Oui,224000,12,0.5,162500,218700,34.6,4000,3,89.5,4.5,1
+BEN-0318,Belier,Rural,Femme,28,Marie(e),Secondaire,Commerce,Solidaire,Groupe A,3,4,Non,Oui,668000,18,19.9,169000,239900,42.0,17000,4,97.2,4.8,0
+BEN-0319,Vallee du Bandama,Urbain,Femme,19,Celibataire,Primaire,Commerce,Solidaire,Groupe C,1,7,Non,Oui,114000,18,2.1,221500,227500,2.7,25500,0,65.6,3.5,0
+BEN-0320,Vallee du Bandama,Rural,Homme,23,Celibataire,Primaire,Agriculture,Individuel,Groupe A,2,5,Non,Oui,292000,18,15.5,102900,124100,20.6,600,0,77.1,3.7,1
+BEN-0321,Marahoue,Rural,Femme,42,Marie(e),Aucun,Agriculture,Solidaire,Groupe A,2,2,Oui,Oui,190000,12,26.4,71000,65600,-7.6,300,1,,2.4,1
+BEN-0322,Marahoue,Rural,Femme,34,Marie(e),Secondaire,Commerce,Individuel,Groupe A,0,7,Non,Non,193000,12,15.4,262000,340900,30.1,11600,0,57.0,5.0,1
+BEN-0323,Marahoue,Rural,Femme,31,Marie(e),Secondaire,Artisanat,Solidaire,Groupe A,0,9,Oui,Non,72000,24,17.6,163000,184000,12.9,7300,0,,4.5,0
+BEN-0324,Vallee du Bandama,Rural,Femme,35,Celibataire,Secondaire,Artisanat,Solidaire,Groupe A,3,6,Oui,Oui,598000,12,25.5,598600,590500,-1.4,4400,1,100.0,,0
+BEN-0325,Vallee du Bandama,Urbain,Femme,45,Marie(e),Secondaire,Services,Individuel,Groupe C,0,7,Oui,Oui,379000,6,20.2,181600,180600,-0.6,7100,0,82.3,4.9,0
+BEN-0326,Belier,Semi-urbain,Homme,35,Marie(e),Primaire,Agriculture,Solidaire,Groupe A,3,6,Non,Oui,364000,12,11.5,329600,443100,34.4,24600,2,100.0,3.9,0
+BEN-0327,Zanzan,Urbain,Femme,42,Celibataire,Primaire,Artisanat,Individuel,Groupe B,2,7,Oui,Oui,474000,18,0.5,342900,461700,34.6,27600,2,87.8,5.0,0
+BEN-0328,Cavally,Rural,Homme,37,Marie(e),Secondaire,Agriculture,Solidaire,Groupe A,4,6,Non,Non,727000,24,15.6,149200,190600,27.7,15500,0,100.0,2.7,1
+BEN-0329,Zanzan,Semi-urbain,Femme,40,Marie(e),Primaire,Agriculture,Individuel,Groupe C,1,5,Non,Non,627000,18,11.7,74900,89700,19.8,1300,1,100.0,4.7,1
+BEN-0330,Belier,Rural,Homme,49,Celibataire,Aucun,Services,Solidaire,Groupe B,3,4,Oui,Oui,174000,18,30.5,178800,189900,6.2,16000,0,,2.1,1
+BEN-0331,Vallee du Bandama,Rural,Homme,25,Marie(e),Primaire,Agriculture,Individuel,Groupe B,2,8,Oui,Non,378000,12,22.1,207000,223000,7.7,,1,96.7,3.9,0
+BEN-0332,Zanzan,Urbain,Homme,52,Divorce(e),Primaire,Commerce,Solidaire,Groupe C,2,7,Non,Oui,357000,18,8.8,234000,365000,56.0,28600,1,70.3,3.1,0
+BEN-0333,Belier,Urbain,Homme,22,Celibataire,Primaire,Commerce,Solidaire,Groupe C,1,8,Non,Non,34000,18,0.5,112000,110400,-1.4,3400,0,100.0,5.0,0
+BEN-0334,Vallee du Bandama,Urbain,Femme,21,Marie(e),Aucun,Services,Solidaire,Groupe B,2,3,Non,Oui,82000,18,8.9,115300,142400,23.5,,0,100.0,3.2,1
+BEN-0335,Marahoue,Urbain,Femme,50,Marie(e),Primaire,Transformation,Solidaire,Groupe B,0,7,Non,Oui,684000,12,0.5,94800,93500,-1.4,11900,4,100.0,3.6,1
+BEN-0336,Vallee du Bandama,Urbain,Femme,23,Celibataire,Primaire,Transformation,Solidaire,Groupe B,2,8,Non,Oui,269000,12,0.5,254600,339500,33.3,4900,3,100.0,3.6,0
+BEN-0337,Belier,Urbain,Femme,51,Marie(e),Primaire,Artisanat,Individuel,Groupe A,1,3,Non,Non,265000,12,0.5,88800,114400,28.8,10400,3,56.3,2.5,1
+BEN-0338,Marahoue,Rural,Femme,40,Marie(e),Primaire,Elevage,Solidaire,Groupe B,2,4,Oui,Non,168000,12,60.8,165600,137500,-17.0,4800,0,64.4,2.9,1
+BEN-0339,Marahoue,Urbain,Femme,35,Celibataire,Aucun,Agriculture,Solidaire,Groupe A,2,5,Oui,Oui,236000,12,0.5,87600,96600,10.3,10300,2,96.4,3.8,1
+BEN-0340,Zanzan,Urbain,Homme,31,Marie(e),Secondaire,Artisanat,Solidaire,Groupe A,2,7,Non,Oui,125000,24,2.3,168300,211700,25.8,11000,0,100.0,4.0,0
+BEN-0341,Vallee du Bandama,Rural,Femme,56,Divorce(e),Primaire,Commerce,Solidaire,Groupe B,1,7,Oui,Non,127000,12,39.5,58600,64500,10.1,2200,1,,4.5,0
+BEN-0342,Marahoue,Urbain,Femme,24,Celibataire,Primaire,Agriculture,Individuel,Groupe B,3,1,Oui,Non,301000,12,0.5,107600,160000,48.7,4100,3,76.6,3.3,1
+BEN-0343,Belier,Rural,Femme,59,Celibataire,Secondaire,Artisanat,Solidaire,Groupe C,1,6,Oui,Oui,230000,24,25.9,124900,190100,52.2,17800,2,80.5,4.7,0
+BEN-0344,Belier,Rural,Femme,32,Divorce(e),Aucun,Agriculture,Solidaire,Groupe C,0,4,Oui,Oui,176000,24,32.2,97700,132900,36.0,9000,1,81.6,5.0,0
+BEN-0345,Belier,Urbain,Femme,51,Celibataire,Aucun,Services,Solidaire,Groupe B,3,4,Oui,Oui,449000,6,14.9,386100,445800,15.5,21800,1,100.0,4.1,1
+BEN-0346,Belier,Rural,Femme,50,Divorce(e),Secondaire,Artisanat,Individuel,Groupe C,2,5,Non,Non,373000,6,16.8,74600,96500,29.4,4500,0,,4.2,1
+BEN-0347,Marahoue,Semi-urbain,Homme,30,Marie(e),Aucun,Services,Solidaire,Groupe A,0,4,Non,Oui,87000,18,48.8,233700,349900,49.7,10800,0,90.8,3.3,1
+BEN-0348,Marahoue,Rural,Homme,52,Marie(e),Primaire,Agriculture,Individuel,Groupe C,0,6,Oui,Non,191000,6,25.8,221700,282100,27.2,19600,0,66.2,4.1,0
+BEN-0349,Vallee du Bandama,Rural,Homme,44,Marie(e),Aucun,Agriculture,Solidaire,Groupe A,1,2,Oui,Non,63000,12,19.3,304900,406500,33.3,8800,0,82.3,3.3,1
+BEN-0350,Belier,Semi-urbain,Femme,42,Veuf/Veuve,Superieur,Commerce,Individuel,Groupe A,5,8,Oui,Oui,408000,12,9.4,164700,237600,44.3,6100,0,74.8,3.9,0
+BEN-0351,Belier,Urbain,Femme,40,Marie(e),Primaire,Commerce,Solidaire,Groupe C,1,1,Oui,Non,151000,12,16.4,,255100,36.5,30800,0,84.4,5.0,0
+BEN-0352,Vallee du Bandama,Rural,Homme,18,Marie(e),Secondaire,Commerce,Individuel,Groupe A,2,4,Non,Non,607000,18,20.0,362800,484800,33.6,15200,3,73.1,3.3,0
+BEN-0353,Belier,Urbain,Homme,35,Marie(e),Secondaire,Services,Solidaire,Groupe A,2,9,Non,Oui,333000,6,0.5,196000,265300,35.4,21300,5,100.0,4.8,0
+BEN-0354,Vallee du Bandama,Rural,Homme,18,Celibataire,Aucun,Artisanat,Individuel,Groupe A,4,6,Non,Oui,337000,18,22.2,135400,135500,0.1,2400,2,59.7,3.8,0
+BEN-0355,Vallee du Bandama,Semi-urbain,Femme,31,Marie(e),Primaire,Agriculture,Solidaire,Groupe C,3,7,Oui,Oui,529000,18,40.3,141500,161100,13.9,8700,3,82.4,2.6,1
+BEN-0356,Cavally,Rural,Femme,33,Marie(e),Primaire,Commerce,Solidaire,Groupe C,2,9,Non,Non,83000,18,42.8,164300,187900,14.4,11000,0,89.9,3.8,0
+BEN-0357,Belier,Urbain,Homme,18,Marie(e),Primaire,Commerce,Solidaire,Groupe C,1,3,Oui,Oui,297000,12,0.5,228900,235700,3.0,3900,1,100.0,1.9,1
+BEN-0358,Zanzan,Semi-urbain,Homme,40,Marie(e),Secondaire,Elevage,Solidaire,Groupe A,1,4,Oui,Non,703000,12,1.0,267200,345400,29.3,10300,0,100.0,2.6,0
+BEN-0359,Belier,Semi-urbain,Femme,35,Marie(e),Aucun,Agriculture,Solidaire,Groupe A,1,6,Oui,Oui,358000,18,17.0,102600,128800,25.5,8800,1,63.0,1.4,0
+BEN-0360,Vallee du Bandama,Semi-urbain,Homme,37,Celibataire,Primaire,Transformation,Individuel,Groupe C,2,5,Oui,Oui,216000,18,6.3,140500,181100,28.9,8100,1,95.9,3.9,1
+BEN-0361,Vallee du Bandama,Urbain,Femme,20,Veuf/Veuve,Aucun,Commerce,Solidaire,Groupe B,2,5,Oui,Oui,796000,18,6.9,381800,314300,-17.7,13900,3,99.5,5.0,0
+BEN-0362,Marahoue,Semi-urbain,Femme,21,Marie(e),Aucun,Artisanat,Individuel,Groupe B,1,10,Non,Oui,267000,24,2.1,42400,38000,-10.4,1200,1,100.0,2.2,0
+BEN-0363,Marahoue,Urbain,Femme,55,Marie(e),Secondaire,Transformation,Solidaire,Groupe C,2,5,Oui,Oui,197000,18,16.0,102100,120800,18.3,3100,0,100.0,3.0,0
+BEN-0364,Zanzan,Urbain,Femme,53,Celibataire,Primaire,Commerce,Solidaire,Groupe B,1,7,Oui,Oui,216000,18,16.2,,230100,35.3,8400,0,88.2,4.2,0
+BEN-0365,Cavally,Semi-urbain,Homme,53,Celibataire,Secondaire,Commerce,Solidaire,Groupe B,2,6,Oui,Oui,332000,12,65.7,267300,315900,18.2,4100,0,100.0,4.3,0
+BEN-0366,Vallee du Bandama,Semi-urbain,Homme,49,Celibataire,Primaire,Agriculture,Solidaire,Groupe A,4,5,Non,Non,258000,12,5.7,,223800,27.1,3800,1,100.0,2.7,0
+BEN-0367,Marahoue,Rural,Femme,53,Celibataire,Primaire,Commerce,Solidaire,Groupe C,0,4,Oui,Non,214000,18,21.3,280200,348400,24.3,,0,86.4,3.2,1
+BEN-0368,Marahoue,Semi-urbain,Homme,56,Celibataire,Aucun,Services,Solidaire,Groupe B,1,7,Oui,Oui,141000,18,,122700,122200,-0.4,2800,0,76.9,3.6,0
+BEN-0369,Marahoue,Semi-urbain,Femme,18,Veuf/Veuve,Aucun,Services,Solidaire,Groupe C,0,6,Non,Oui,76000,24,7.2,85000,97800,15.1,9100,0,95.0,4.6,0
+BEN-0370,Zanzan,Semi-urbain,Homme,23,Veuf/Veuve,Superieur,Transformation,Solidaire,Groupe B,2,3,Non,Non,314000,12,14.8,174500,278900,59.8,10400,2,95.4,2.3,1
+BEN-0371,Cavally,Rural,Femme,45,Marie(e),Aucun,Services,Individuel,Groupe B,2,4,Oui,Non,669000,12,18.4,155800,203500,30.6,9700,1,100.0,2.1,1
+BEN-0372,Cavally,Urbain,Femme,46,Celibataire,Secondaire,Services,Solidaire,Groupe C,0,4,Oui,Oui,264000,12,24.3,203400,280600,38.0,22600,0,99.5,4.6,0
+BEN-0373,Belier,Rural,Femme,39,Celibataire,Primaire,Services,Individuel,Groupe A,2,4,Oui,Non,197000,18,45.0,60200,63500,5.5,1900,0,80.8,1.6,1
+BEN-0374,Vallee du Bandama,Urbain,Femme,40,Celibataire,Secondaire,Artisanat,Individuel,Groupe B,2,5,Oui,Oui,290000,6,0.5,,123500,48.4,8300,2,100.0,4.2,1
+BEN-0375,Belier,Rural,Femme,47,Divorce(e),Aucun,Services,Solidaire,Groupe A,2,6,Oui,Non,515000,18,21.1,150100,151600,1.0,1100,4,94.8,2.1,1
+BEN-0376,Vallee du Bandama,Urbain,Homme,23,Marie(e),Superieur,Artisanat,Individuel,Groupe B,2,5,Non,Oui,594000,24,0.5,403400,668200,65.6,14500,0,89.6,,1
+BEN-0377,Vallee du Bandama,Rural,Homme,33,Marie(e),Primaire,Services,Individuel,Groupe B,2,6,Non,Non,417000,18,29.7,144900,111000,-23.4,10000,1,88.6,3.8,1
+BEN-0378,Marahoue,Rural,Homme,29,Divorce(e),Primaire,Commerce,Individuel,Groupe A,3,10,Oui,Non,310000,36,19.6,247300,273400,10.6,5400,1,85.1,3.5,0
+BEN-0379,Marahoue,Semi-urbain,Homme,49,Veuf/Veuve,Superieur,Services,Solidaire,Groupe B,0,4,Non,Oui,230000,12,1.5,183100,251500,37.4,10900,1,91.4,1.9,1
+BEN-0380,Zanzan,Rural,Homme,34,Celibataire,Secondaire,Elevage,Solidaire,Groupe A,2,8,Oui,Non,363000,36,21.9,106600,130300,22.2,12000,1,,3.1,0
+BEN-0381,Vallee du Bandama,Rural,Femme,42,Marie(e),Primaire,Agriculture,Individuel,Groupe B,1,1,Oui,Oui,359000,6,40.9,285900,221800,-22.4,4200,1,52.0,5.0,0
+BEN-0382,Cavally,Rural,Homme,35,Celibataire,Aucun,Transformation,Individuel,Groupe C,2,5,Oui,Non,280000,36,16.5,136900,198400,44.9,6300,3,61.4,3.6,1
+BEN-0383,Zanzan,Urbain,Femme,44,Veuf/Veuve,Aucun,Agriculture,Solidaire,Groupe A,0,4,Non,Oui,161000,6,0.5,93900,84900,-9.6,3800,1,93.4,3.5,0
+BEN-0384,Zanzan,Rural,Femme,60,Celibataire,Secondaire,Artisanat,Solidaire,Groupe A,0,4,Non,Non,222000,18,29.0,91800,105500,14.9,1900,2,78.5,2.4,1
+BEN-0385,Vallee du Bandama,Rural,Femme,41,Marie(e),Aucun,Transformation,Solidaire,Groupe A,1,5,Non,Non,179000,12,17.4,294600,393700,33.6,27900,1,100.0,5.0,0
+BEN-0386,Vallee du Bandama,Urbain,Femme,21,Marie(e),Primaire,Artisanat,Individuel,Groupe A,4,6,Oui,Oui,255000,12,0.5,90100,114200,26.7,8500,5,100.0,2.5,1
+BEN-0387,Belier,Rural,Femme,23,Marie(e),Secondaire,Elevage,Individuel,Groupe A,2,5,Oui,Non,189000,18,15.4,77100,95700,24.1,8100,0,98.6,5.0,0
+BEN-0388,Vallee du Bandama,Urbain,Femme,24,Marie(e),Primaire,Agriculture,Solidaire,Groupe B,2,7,Oui,Oui,1500000,18,10.1,101800,107800,5.9,2900,2,88.3,4.4,1
+BEN-0389,Belier,Rural,Homme,47,Celibataire,Aucun,Artisanat,Solidaire,Groupe C,2,4,Oui,Non,59000,12,16.9,125700,163600,30.2,5000,0,93.9,5.0,0
+BEN-0390,Marahoue,Urbain,Homme,35,Celibataire,Secondaire,Artisanat,Solidaire,Groupe C,2,6,Oui,Oui,475000,18,0.5,147200,186500,26.7,1500,2,74.7,2.1,0
+BEN-0391,Vallee du Bandama,Rural,Homme,32,Veuf/Veuve,Aucun,Elevage,Solidaire,Groupe A,0,2,Non,Oui,601000,24,15.6,322900,408800,26.6,1000,2,100.0,5.0,0
+BEN-0392,Belier,Urbain,Homme,33,Marie(e),Primaire,Services,Solidaire,Groupe A,1,5,Oui,Oui,311000,24,18.6,211100,245400,16.2,10900,0,100.0,2.4,1
+BEN-0393,Vallee du Bandama,Rural,Homme,43,Divorce(e),Superieur,Agriculture,Individuel,Groupe B,2,5,Oui,Non,705000,24,18.2,106400,129500,21.7,8900,2,75.5,2.1,1
+BEN-0394,Zanzan,Rural,Homme,36,Marie(e),Secondaire,Commerce,Solidaire,Groupe A,2,4,Oui,Non,190000,6,16.8,71000,85100,19.9,4400,1,,2.6,1
+BEN-0395,Belier,Rural,Femme,45,Marie(e),Secondaire,Commerce,Solidaire,Groupe C,3,5,Oui,Non,143000,6,20.8,295800,312700,5.7,21700,1,88.3,4.1,0
+BEN-0396,Vallee du Bandama,Semi-urbain,Femme,42,Marie(e),Secondaire,Artisanat,Solidaire,Groupe B,2,3,Oui,Non,86000,24,24.6,73200,86700,18.4,3100,0,100.0,2.7,0
+BEN-0397,Marahoue,Rural,Homme,39,Marie(e),Secondaire,Commerce,Solidaire,Groupe C,2,1,Oui,Oui,162000,6,34.1,69000,76700,11.2,,1,100.0,3.5,0
+BEN-0398,Vallee du Bandama,Rural,Femme,44,Marie(e),Primaire,Agriculture,Solidaire,Groupe A,1,4,Non,Oui,154000,6,18.6,109400,138200,26.3,3200,0,,5.0,0
+BEN-0399,Zanzan,Semi-urbain,Femme,36,Celibataire,Secondaire,Services,Solidaire,Groupe A,1,2,Oui,Non,289000,24,14.1,181500,249300,37.4,7200,1,100.0,2.3,0
+BEN-0400,Belier,Urbain,Femme,41,Celibataire,Aucun,Transformation,Individuel,Groupe B,2,5,Non,Oui,338000,24,,79300,100800,27.1,600,0,68.7,3.4,1
